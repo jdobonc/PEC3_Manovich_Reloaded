@@ -48,7 +48,7 @@ Si alguna vez soñaste con visitar las obras artísticas más importantes del mu
 
 Empezando con una simple cita, *“where arts meet technology”*, es decir, donde el arte encuentra la tecnología, Google nos abre un mundo de posibilidades al alcance de unos cuantos clics, y para muestra un botón:
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/fqXy2Q8mRQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqXy2Q8mRQg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cuando encontré por primera vez este portal quedé maravillado con su profundidad para nada aparente desde su inicial diseño minimalista, nunca antes había podido experimentar con algo tan grande en todos los aspectos, ya que hasta entonces únicamente conocía ciertos lugares de intercambio de arte a modo de almacén de portafolios, como por ejemplo *"DeviantArt"*.
 
