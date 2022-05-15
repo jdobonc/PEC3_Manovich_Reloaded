@@ -62,7 +62,7 @@ Lo curioso de esto es ver cómo el propio artista es el interesado de hacer part
 
 Así que básicamente si hacemos referencia a la hibridación resultante de esta experiencia con "Google Arts & Culture", podemos ver como esta no amenaza ni rompe la esencia misma del arte por sí solo, por mucho que nuestra experiencia sea enteramente digital.
 
-![The History of Cinema en VR promotion image](https://i3.ytimg.com/vi/6Y4OTrsccvs/hqdefault.jpg)
+![The Frick collection](https://miro.medium.com/max/1400/1*vkrGSDecL3QQxcCqCJ4zFQ.png)
 
 En este caso me atrevería a decir que *"Google Arts & Culture"*, podría ser uno de los mejores ejemplos de hibridación si miramos a través de las gafas de Manovich. Ya que constituye un ejemplo visual y muy claro de la hibridación de dos mundos (el del arte y el de la navegación web) y que a través de todos sus medios y técnicas dan lugar a un producto software maravilloso.
 
