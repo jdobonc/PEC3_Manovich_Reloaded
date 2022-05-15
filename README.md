@@ -48,7 +48,7 @@ Si alguna vez soñaste con visitar las obras artísticas más importantes del mu
 
 Empezando con una simple cita, *“where arts meet technology”*, es decir, donde el arte encuentra la tecnología, Google nos abre un mundo de posibilidades al alcance de unos cuantos clics, y para muestra un botón:
 
-[![Google Arts & Culture](https://youtu.be/fqXy2Q8mRQg)](https://youtu.be/fqXy2Q8mRQg)
+[![Google Arts & Culture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY1yeYNyq26_AteF73F9Ivr_g2r70qctFuw&usqp=CAU)](https://youtu.be/fqXy2Q8mRQg)
 
 Cuando encontré por primera vez este portal quedé maravillado con su profundidad para nada aparente desde su inicial diseño minimalista, nunca antes había podido experimentar con algo tan grande en todos los aspectos, ya que hasta entonces únicamente conocía ciertos lugares de intercambio de arte a modo de almacén de portafolios, como por ejemplo *"DeviantArt"*.
 
